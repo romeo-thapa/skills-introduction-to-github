@@ -1,4 +1,4 @@
-## Step 1: Create a branch
+# Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
@@ -7,9 +7,7 @@ GitHub is a popular place to share and contribute to [open-source](https://docs.
 
 :tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders.
-A repository tracks versions of files and folders. For more information, see
-"[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see [About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) from GitHub Docs.
 
 **What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository.
 By default, your repository has one branch named `main` and it is considered to be the definitive branch.
@@ -24,7 +22,7 @@ For more information, see "[About branches](https://docs.github.com/en/pull-requ
 is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com.
 GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![screenshot showing an example profile readme](https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/example-profile-readme.png?raw=true)
+![screenshot showing an example profile readme](https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/example-profile-readme.png?raw=true)
 
 ### :keyboard: Activity: Your first branch
 
@@ -32,11 +30,11 @@ GitHub shows your profile README at the top of your profile page. For more infor
 
 2. Navigate to the **< > Code** tab in the header menu of your repository.
 
-   ![screenshot highlighting the code tab](https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/code-tab-highlight.png?raw=true)
+   ![screenshot highlighting the code tab](https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/code-tab-highlight.png?raw=true)
 
 3. Click on the **main** branch drop-down.
 
-   <img width="300" alt="screenshot highlighting the branch selection" src="https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
+   <img width="300" alt="screenshot highlighting the branch selection" src="https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
 
 4. In the text box **Find or create a branch...**, enter `my-first-branch`.
    
@@ -44,7 +42,7 @@ GitHub shows your profile README at the top of your profile page. For more infor
 
 5. Click the text **Create branch: `my-first-branch` from main** to create your branch.
 
-   <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
+   <img width="300" alt="screenshot highlighting the create branch prompt" src="https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
    - The branch will automatically switch to the one you just created.
    - The **main** branch drop-down menu will display your new branch name.

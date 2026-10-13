@@ -2,7 +2,7 @@
 
 _You created a branch! :tada:_
 
-Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
+Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it's time to create a file and make your first commit!
 
 **What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
 
@@ -17,7 +17,7 @@ The following steps will guide you through the process of committing a change on
 
 2. Select the **Add file** drop-down and click **Create new file**.
 
-   <img width="300" alt="screenshot of the create new file option" src="https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
+   <img width="300" alt="screenshot of the create new file option" src="https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
 
 3. In the **Name your file...** field, enter `PROFILE.md`.
 
@@ -27,7 +27,7 @@ The following steps will guide you through the process of committing a change on
    Welcome to my GitHub profile!
    ```
 
-   ![screenshot for adding the profile.md file](https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
+   ![screenshot for adding the profile.md file](https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
 
 5. Click **Commit changes...** in the upper right corner above the contents box. A dialog will appear.
 
@@ -35,7 +35,7 @@ The following steps will guide you through the process of committing a change on
 
    - A **commit message** and optional **extended description** help provide clarity for your changes. This is particularly useful when your commit involves several files.
 
-   <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/thaparomeo15-creator/skills-introduction-to-github/blob/main/.github/images/commit-message-dialog.png?raw=true">
+   <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/romeo-thapa/skills-introduction-to-github/blob/main/.github/images/commit-message-dialog.png?raw=true">
 
 7. In this lesson, we'll ignore the other fields for now and click **Commit changes**.
 
